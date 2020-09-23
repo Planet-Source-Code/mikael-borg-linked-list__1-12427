@@ -1,0 +1,4 @@
+VBGROUP 5.0
+Project=LinkedList\LinkedList.vbp
+Project=MyComponent\MyComponent.vbp
+StartupProject=MyComponentUser\MyComponentUser.vbp
